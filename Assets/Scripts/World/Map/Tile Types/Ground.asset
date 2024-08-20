@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a4a2eddfcd6dc242b624af7862ecde8, type: 3}
+  m_Name: Ground
+  m_EditorClassIdentifier: Assembly-CSharp:Assets.Scripts.World.Map:TileTypes
+  textures:
+  - {fileID: -9003066046786697990, guid: 837351bb092d8c946bd01e42106b30b4, type: 3}
+  - {fileID: 1220594409009868273, guid: 837351bb092d8c946bd01e42106b30b4, type: 3}
+  - {fileID: -3878557786174838139, guid: 80e55cd99380ac641a34aaec933b46c6, type: 3}
+  transparent: 0
+  walkable: 0
